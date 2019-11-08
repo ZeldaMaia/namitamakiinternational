@@ -1,0 +1,38 @@
+#headerimage{
+    position: fixed;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, 0);
+    width:101%;
+}
+
+body{
+    background-color:pink;
+}
+
+article{
+    background-color: white;
+    
+}
+
+i{
+    font-size: 30px;
+}
+
+nav{
+    opacity: 0.7;
+    background-color:black;
+}
+
+a{
+    color: #585858;
+}
+
+a:hover{
+    color: black;
+    background: pink;
+}
+
+footer{
+    background-color: black;
+}
