@@ -3,31 +3,32 @@
     left: 50%;
     top: 0;
     transform: translate(-50%, 0);
-    width:101%;
+    width: 101%;
 }
 
 body{
     background-color:pink;
-
+    margin: none;
+    padding: none;
 }
 
-.col-3{
+h2{
+    font-size: 20px;
+}
+
+.col-4{
     padding: 15px;
     border-radius: 20px;
-    margin-left: 0px;
-    margin-bottom: 30px;
     background-color: white;
+    margin: 10px auto;
 }
 
 #articles{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: none;
     padding: 70px;
 }
 
-.row align-items-center{
-    margin: 0;
-}
+/*icônes*/
 
 i{
     font-size: 30px;
@@ -50,7 +51,10 @@ a:hover{
 footer{
     background-color: black;
 }
-    
-.container{
-    padding-bottom: 0px;
+
+#test{
+    background-color: white;
 }
+
+
+/*TEST*/
