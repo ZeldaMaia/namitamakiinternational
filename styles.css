@@ -8,11 +8,25 @@
 
 body{
     background-color:pink;
+
 }
 
-article{
+.col-3{
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 0px;
+    margin-bottom: 30px;
     background-color: white;
-    
+}
+
+#articles{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 70px;
+}
+
+.row align-items-center{
+    margin: 0;
 }
 
 i{
@@ -27,12 +41,16 @@ nav{
 a{
     color: #585858;
 }
-
+    
 a:hover{
     color: black;
     background: pink;
 }
-
+    
 footer{
     background-color: black;
+}
+    
+.container{
+    padding-bottom: 0px;
 }
